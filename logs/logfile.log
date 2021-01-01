@@ -1,0 +1,222 @@
+18:13:58.321 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+18:13:58.361 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+18:18:22.951 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+18:18:22.972 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+18:21:05.049 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+18:21:05.067 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+18:58:07.024 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+18:58:07.127 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+19:04:04.472 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+19:04:04.571 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+19:07:47.026 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+19:07:47.057 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+19:08:39.870 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+19:08:40.064 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+19:17:15.758 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+19:17:15.792 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+19:24:04.360 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+19:24:04.447 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+19:30:19.565 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+19:30:19.717 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+20:10:54.751 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+20:10:54.906 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+20:14:36.936 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+20:14:37.187 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+20:16:34.581 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+20:16:44.168 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+20:16:44.457 [main] INFO  cucumber.Base.BaseClass - entered username
+20:16:44.588 [main] INFO  cucumber.Base.BaseClass - entered password
+20:16:51.654 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+20:16:51.715 [main] INFO  cucumber.Base.BaseClass - LogIn successfully
+00:21:52.491 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+00:21:52.680 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+00:23:25.067 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+00:23:32.642 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+00:23:33.154 [main] INFO  cucumber.Base.BaseClass - entered username
+00:23:33.282 [main] INFO  cucumber.Base.BaseClass - entered password
+00:23:49.839 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+00:23:49.895 [main] INFO  cucumber.Base.BaseClass - LogIn successfully
+00:24:03.583 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+00:24:03.583 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+00:58:43.420 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+00:58:43.511 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+00:59:42.833 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+00:59:57.132 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+00:59:58.167 [main] INFO  cucumber.Base.BaseClass - entered username
+00:59:58.614 [main] INFO  cucumber.Base.BaseClass - entered password
+01:00:10.364 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+01:00:10.477 [main] INFO  cucumber.Base.BaseClass - LogIn successfully
+01:00:23.416 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+01:00:23.416 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+01:00:57.332 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+01:01:08.991 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+01:10:21.960 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+01:10:22.141 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+01:11:44.405 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+01:12:00.232 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+01:12:00.659 [main] INFO  cucumber.Base.BaseClass - entered username
+01:12:00.873 [main] INFO  cucumber.Base.BaseClass - entered password
+01:12:13.271 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+01:12:13.347 [main] INFO  cucumber.Base.BaseClass - LogIn successfully
+01:12:23.995 [main] DEBUG cucumber.Base.BaseClass - chrome Browser has started Successfully
+01:12:23.995 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+01:12:45.148 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+01:12:54.212 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+01:12:54.363 [main] INFO  cucumber.Base.BaseClass - enterd uncorrrect username
+01:12:54.470 [main] INFO  cucumber.Base.BaseClass - enterd uncorrrect password
+01:13:03.363 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+15:41:30.059 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+15:41:30.122 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+15:43:01.790 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+15:43:06.999 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+15:43:07.523 [main] INFO  cucumber.Base.BaseClass - entered username
+15:43:07.620 [main] INFO  cucumber.Base.BaseClass - entered password
+15:43:16.637 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+15:43:16.691 [main] INFO  cucumber.Base.BaseClass - LogIn successfully
+15:49:21.345 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+15:49:21.352 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+15:50:19.838 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+15:50:40.934 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+15:50:41.102 [main] INFO  cucumber.Base.BaseClass - entered username
+15:50:41.213 [main] INFO  cucumber.Base.BaseClass - entered password
+15:50:49.841 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+15:50:49.933 [main] INFO  cucumber.Base.BaseClass - LogIn successfully
+15:50:58.970 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+15:50:58.970 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+15:52:26.482 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+15:52:32.945 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+15:57:48.798 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+15:57:48.809 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+15:58:03.072 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+15:58:08.281 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+16:00:47.889 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+16:00:47.896 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+16:01:25.098 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+16:01:35.233 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+16:01:35.384 [main] INFO  cucumber.Base.BaseClass - enterd uncorrrect username
+16:01:35.483 [main] INFO  cucumber.Base.BaseClass - enterd uncorrrect password
+16:03:57.479 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+16:03:57.485 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+16:04:55.450 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+16:05:05.246 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+16:05:05.396 [main] INFO  cucumber.Base.BaseClass - enterd uncorrrect username
+16:05:05.505 [main] INFO  cucumber.Base.BaseClass - enterd uncorrrect password
+16:05:13.828 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+16:05:13.924 [main] INFO  cucumber.Base.BaseClass - Login unsuccessful
+16:09:59.922 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+16:09:59.934 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+16:10:14.122 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+16:10:21.396 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+16:10:21.879 [main] INFO  cucumber.Base.BaseClass - entered username
+16:10:22.039 [main] INFO  cucumber.Base.BaseClass - entered password
+16:10:29.513 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+16:10:29.616 [main] INFO  cucumber.Base.BaseClass - LogIn successfully
+16:10:38.480 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+16:10:38.480 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+16:10:51.078 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+16:10:59.510 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+16:10:59.707 [main] INFO  cucumber.Base.BaseClass - enterd uncorrrect username
+16:10:59.893 [main] INFO  cucumber.Base.BaseClass - enterd uncorrrect password
+16:11:07.918 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+16:11:07.953 [main] INFO  cucumber.Base.BaseClass - Login unsuccessful
+14:07:52.297 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:07:52.379 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:07:58.866 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:07:58.866 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:08:05.508 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:08:05.508 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:08:11.733 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:08:11.733 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:08:17.945 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:08:17.945 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:11:23.727 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:11:23.739 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:11:30.349 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:11:30.349 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:11:36.690 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:11:36.690 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:11:42.882 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:11:42.882 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:11:49.029 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:11:49.029 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:13:23.996 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:13:24.004 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:13:30.410 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:13:30.410 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:17:13.569 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:17:13.819 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:17:20.968 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:17:20.968 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:17:27.430 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:17:27.430 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:20:49.110 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:20:49.115 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:20:54.859 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+14:21:03.349 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+14:22:41.461 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:22:41.468 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:24:04.306 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+14:24:14.983 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+14:24:15.236 [main] INFO  cucumber.Base.BaseClass - entered username
+14:24:15.353 [main] INFO  cucumber.Base.BaseClass - entered password
+14:24:27.601 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+14:24:27.639 [main] INFO  cucumber.Base.BaseClass - login successfull
+14:24:37.181 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:24:37.181 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:25:37.181 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+14:25:42.292 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+14:25:42.586 [main] INFO  cucumber.Base.BaseClass - entered username
+14:25:42.696 [main] INFO  cucumber.Base.BaseClass - entered password
+14:25:48.395 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+14:25:48.420 [main] INFO  cucumber.Base.BaseClass - login successfull
+14:25:55.694 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:25:55.694 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:27:22.211 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+14:27:33.718 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+14:27:33.927 [main] INFO  cucumber.Base.BaseClass - entered username
+14:27:33.998 [main] INFO  cucumber.Base.BaseClass - entered password
+14:27:46.727 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+14:27:46.748 [main] INFO  cucumber.Base.BaseClass - login successfull
+14:27:55.672 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:27:55.672 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:28:49.303 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+14:28:54.857 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+14:28:54.971 [main] INFO  cucumber.Base.BaseClass - entered username
+14:28:55.117 [main] INFO  cucumber.Base.BaseClass - entered password
+14:29:03.357 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+14:29:03.378 [main] INFO  cucumber.Base.BaseClass - login successfull
+14:29:12.293 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:29:12.293 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:30:24.387 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+14:30:30.246 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+14:30:30.364 [main] INFO  cucumber.Base.BaseClass - entered username
+14:30:30.430 [main] INFO  cucumber.Base.BaseClass - entered password
+14:30:35.061 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+14:30:35.148 [main] INFO  cucumber.Base.BaseClass - login successfull
+14:38:21.466 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:38:21.477 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:38:38.864 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+14:38:45.406 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+14:40:56.568 [main] INFO  cucumber.Base.BaseClass - entered username
+14:42:07.394 [main] INFO  cucumber.Base.BaseClass - entered password
+14:42:15.952 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+14:42:16.136 [main] INFO  cucumber.Base.BaseClass - login successfull
+14:42:21.191 [main] DEBUG cucumber.Base.BaseClass - null Browser has started Successfully
+14:42:21.191 [main] DEBUG cucumber.Base.BaseClass - *********************Web Browser has opened*****************
+14:42:30.678 [main] DEBUG cucumber.Base.BaseClass - Website has opened
+14:42:32.373 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+16:16:38.549 [main] DEBUG cucumber.Base.BaseClass - ********************* ie Web Browser has opened*****************
+16:16:47.245 [main] DEBUG cucumber.Base.BaseClass - Webpage has opened
+16:16:52.107 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+16:19:08.273 [main] INFO  cucumber.Base.BaseClass - entered username
+16:20:24.115 [main] INFO  cucumber.Base.BaseClass - entered password
+16:20:26.723 [main] DEBUG cucumber.Base.BaseClass - ********************* ie Web Browser has closed*****************
+16:21:07.969 [main] DEBUG cucumber.Base.BaseClass - ********************* firefox Web Browser has opened*****************
+16:22:08.045 [main] DEBUG cucumber.Base.BaseClass - Webpage has opened
+16:22:11.469 [main] INFO  cucumber.Base.BaseClass - clicked on My acoount link
+16:22:11.600 [main] INFO  cucumber.Base.BaseClass - entered username
+16:22:11.646 [main] INFO  cucumber.Base.BaseClass - entered password
+16:22:19.091 [main] INFO  cucumber.Base.BaseClass - clicked on login button
+16:22:24.033 [main] INFO  cucumber.Base.BaseClass - clicked on sign out button
+16:22:26.205 [main] INFO  cucumber.Base.BaseClass - Press backed button
+16:24:28.684 [main] DEBUG cucumber.Base.BaseClass - ********************* firefox Web Browser has closed*****************
